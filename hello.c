@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
-	printf("Love Y\n");
-	printf("Hello");
-	printf("Nice to meet U");
+	printf("Hello\n");
+	printf("i dont know\n");
+	printf("KCCI\n Today is Tuesday");
 }
 
