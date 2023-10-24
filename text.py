@@ -1,1 +1,1 @@
-Hello Git
+print("Written by Python)
