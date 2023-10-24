@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main(){
-	printf("Hello\n");
-	printf("KCCI\n Today is Tuesday");
 	printf("Love Y\n");
+	printf("Hello");
 }
 
